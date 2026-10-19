@@ -7,4 +7,4 @@ A3-Eğer seviye<=50 ise A2'ye Git
 A4-Sistem Saatini Oku, saat
 A5-Ekrana Kritik Su Seviyesi Yaz ve saat değerini Yaz
 A5-Dur
-## Projenin Hedefleri: Programlama Temelleri Ders Kitabı
+## Kaynaklar: Programlama Temelleri Ders Kitabı
